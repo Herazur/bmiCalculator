@@ -1,9 +1,5 @@
 ## Your Life in Weeks
 
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
 # Instructions
 
 I was reading this article by Tim Urban - Your Life in Weeks and realised just how little time we actually have.
